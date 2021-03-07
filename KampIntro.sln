@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampIntro", "KampIntro.csproj", "{2EA643F4-7250-458D-A475-754AF3BF9325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryProject", "..\DictionaryProject\DictionaryProject.csproj", "{39AEB356-6D64-4789-AE72-02264C8A332C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EA643F4-7250-458D-A475-754AF3BF9325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA643F4-7250-458D-A475-754AF3BF9325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA643F4-7250-458D-A475-754AF3BF9325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA643F4-7250-458D-A475-754AF3BF9325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39AEB356-6D64-4789-AE72-02264C8A332C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AEB356-6D64-4789-AE72-02264C8A332C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AEB356-6D64-4789-AE72-02264C8A332C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AEB356-6D64-4789-AE72-02264C8A332C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89383F32-B3C7-49F6-9400-7811F2A9D83B}
+	EndGlobalSection
+EndGlobal
